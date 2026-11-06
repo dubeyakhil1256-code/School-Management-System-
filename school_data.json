@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "akhil",
+            "age": 18,
+            "email": "dubeyakhil1256@gmail.com",
+            "roll_no": "26bai006",
+            "grades": {
+                "maths": 45.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Akhil Dubey",
+            "age": 23,
+            "subject": "maths",
+            "email": "dubeyakhil1256@gmail.com",
+            "emp_id": "26bcs006"
+        }
+    ]
+}
